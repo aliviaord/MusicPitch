@@ -1,0 +1,46 @@
+body{
+    background-color:#ffd8c9;
+        /*#ffcfc9;*/
+        /*#ffcfc9;*/
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5em;
+}
+
+header{
+    background-color: #fff4c1;
+    border-collapse: collapse;
+        /*#ffb0a6;/
+        /*#ffdc3b;*/
+        /*#fff6cc;*/
+        /*#ff8575;*/
+    padding: 1em;
+}
+
+main{
+    padding: 1.5em;
+}
+
+footer{
+    background-color: black;
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow:hidden;
+    font: color
+}
+#logo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+}
