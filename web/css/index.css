@@ -1,45 +1,52 @@
 body{
-    background-color:#ffd8c9;
-        /*#ffcfc9;*/
-        /*#ffcfc9;*/
+    /*Aspect*/
+    background-color: black;
     font-family: 'Nunito', sans-serif;
     font-size: 1.5em;
+    /*Display Settings*/
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0 auto;
+    
 }
 
 header{
+    /*Aspect*/
     background-color: #fff4c1;
+    /*Display Settings*/
     border-collapse: collapse;
-        /*#ffb0a6;/
-        /*#ffdc3b;*/
-        /*#fff6cc;*/
-        /*#ff8575;*/
     padding: 1em;
 }
 
 main{
+    /*Aspect*/
+    background-color:#ffd8c9;
+    /*Display Settings*/
     padding: 1.5em;
 }
 
 footer{
+    /*Aspect*/
     background-color: black;
-    position:fixed;
-    left: 0;
-    bottom: 0;
+    /*Display Settings*/
     width: 100%;
     overflow:hidden;
-    font: color
 }
 #logo{
+    /*Display Settings*/
     display: block;
     margin-right: auto;
     margin-left: auto;
 }
 
 table{
+    /*Display Settings*/
     width: 100%;
 }
 
 th{
+    /*Aspect*/
     color: white;
     font-family: 'Pacifico', cursive;
     font-size: 24px;
